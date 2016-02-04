@@ -5,7 +5,7 @@ Quick search command tool for your terminal.
 # Usage
 
 ```
-Usage: cli.py [OPTIONS] QUERY...
+Usage: q [OPTIONS] QUERY...
 
   Quick search command tool for your terminal
 
@@ -38,8 +38,13 @@ And many more!
 # Currently supported engines
 
 * github
-* google -o maps
+* google
+ * maps
+ * weather
+ * inbox
 * reddit
+ * sub
 * spotify
+* duckduckgo
 * stackoverflow
 * wikipedia
